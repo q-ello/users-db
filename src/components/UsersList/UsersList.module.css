@@ -1,0 +1,11 @@
+.container {
+    position: absolute;
+}
+
+.users {
+    list-style: none;
+}
+
+.user {
+    color: black;
+}
